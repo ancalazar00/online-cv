@@ -3,23 +3,31 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Radu Galbenu
-    tagline: DevOps/Cloud Engineer
+    name: Anca Lazar
+    tagline: Student/Professor
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: radugalbenu@gmail.com
-    phone: (+40)764 443 330
-    timezone:  EEST / Bucharest Time (GMT+2)
-    citizenship: Timisoara, Romania
-    website: radugalbenu.github.io #do not add http://
-    linkedin: radugalbenu
-    github: radugalbenu
-    pdf: https://radugalbenu.github.io/assets/files/RaduGalbenu_CV.pdf
+    email: lazar.anca00@gmail.com
+    phone: 0731083218
+    timezone: 
+    citizenship:
+    website: #do not add http://
+    linkedin: lazaranca
+    xing: 
+    github: 
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -28,8 +36,10 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Business Fluent
+          level: Proficiency
 
+        - idiom: Italian
+          level: Intermediate
 
     interests:
       title: Interests
@@ -37,17 +47,24 @@ sidebar:
         - item: Technology
           link:
 
-        - item: Snowboarding
+        - item: Dancing
           link:
 
+        - item: Travelling
+          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      As a DevOps engineer with a passion for cloud native technologies, microservices, and infrastructure as code, I have a strong track record of implementing security best practices on AWS and Kubernetes platforms in the FinTech industry. I have experience working within a Scaled Agile Framework, and I like following a GitOps approach to ensure consistent and reliable deployment of code.
-      In my current role, I have successfully implemented and maintained a microservices architecture using Kubernetes, enabling our team to rapidly release new features and updates. I have also implemented infrastructure as code using tools such as Terraform, enabling us to manage our infrastructure in a transparent and automated manner.
-      I am proficient in AWS and have a deep understanding of its security features, allowing me to design and implement secure infrastructure for our applications. I am also well-versed in the principles of Git and use it daily to manage and collaborate on code changes within my team.
-      Overall, I am a skilled DevOps engineer with a passion for using cutting-edge technologies to deliver reliable and secure systems in a fast-paced, Agile environment.
+      As a current student and teacher, I am enthusiastic about technology, thus, 
+      I have skills in Software Testing and basic programming and I am seeking an entry-level IT position. 
+      I have developed a strong foundation in software testing through a completed course, 
+      as well as honed my communication skills through my teaching experience. 
+      I have also been actively volunteering in various projects, which has sharpened my teamwork and problem-solving abilities. 
+      Despite my lack of professional IT experience, I am eager to learn and bring my passion, skills, and enthusiasm to the industry.
+
+
+
 education:
     title: Education
     info:
