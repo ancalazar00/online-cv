@@ -90,31 +90,28 @@ experiences:
         company: Liceul Teoretic Nikolaus Lenau Timișoara
         details: |
           As a teacher, I shape students' minds through lesson planning, assessment, and creating a positive learning environment. I bring strong organizational and time-management skills, and a strong work ethic, to this challenging but at the same time rewarding profession where I can make a difference in students' lives.
-            - Bullet point
-            - Bullet point
+        
       - role: Secretary: Apprenticeship
         time: 2020
         company: Liceul Teoretic Nikolaus Lenau Timișoara
         details: |
           As a former secretarial apprentice, I gained experience in answering phones, registering requests, drafting correspondence, and organizing files. I also developed computer skills using Word, spreadsheets, and databases. The apprenticeship allowed me to sharpen my organizational, communication, and time management skills while working with seasoned secretaries.
-            - Bullet point
-            - Bullet point
+            
       - role: Artistic Collaborator
         time: 2012 - 2014
         company: Tmisoara National Opera & Merlin Theater
         details: |
          As working in the artistic sphere I have learned to come up with new ideas and ways to express myself through my work. I have had to effectively communicate my ideas and collaborate with others. Also, I have developed strong time management in order to be on time for rehearsals and shows.
-            - Bullet point
-            - Bullet point
+           
 projects:
     title: Certificates
     - role: Manual Software Testing Course 
         time: 2021 - 2022
         company: Informal IT School l ANC Certificate
         details: |
-        During the course I  have learned the following skills and knowledge:
+       - During the course I  have learned the following skills and knowledge:
 
-▪ Testing process: Requirements analysis, Test Planning, Test Analysis and Design, Test Execution, Test Reporting, Test Closure;
+ - Testing process: Requirements analysis, Test Planning, Test Analysis and Design, Test Execution, Test Reporting, Test Closure;
 ▪ Creating test scenarios in Testlink;
 ▪ Running test cases;
 ▪ Providing reports based on the ran test cases;
