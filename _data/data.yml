@@ -68,12 +68,12 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MA: American Studies
-        university: West University of Timisoara, Faculty: Letters
+      - degree: MA American Studies
+        university: West University of Timisoara, Faculty - Letters
         time: 2021 - Present
         #details: |
       - degree: BA
-        university: West University of Timisoara, Faculty: Letters
+        university: West University of Timisoara, Faculty - Letters
         time: 2018 - 2021
         #details: |
 experiences:
