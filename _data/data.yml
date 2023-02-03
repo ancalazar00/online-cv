@@ -65,157 +65,114 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MA: American Studies
-        university: West University of Timisoara - Faculty: Letters
-        time: 2021 - 2023
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BA: Modern English and Italian Language and Literature
-        university: West University of Timisoara - Faculty: Letters
-        time: 2018 -2021
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: BSc in Computer Science
+        university: Faculty of Automation, Computers and Electronics - Craiova
+        time: 2012 - 2017
+        #details: |
+      - degree: High School
+        university: Colegiul Tehnic Metalurgic - Slatina
+        time: 2008 - 2012
+        #details: |
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: DevOps Engineer
+        time: 05/2021 - Present
+        company: Endava - Timisoara, Romania
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          As a skilled DevOps Engineer, I have a strong background in designing and implementing continuous delivery pipelines using the following technology stack:
+          - Git: Github
+          - Application: Java, Springboot
+          - Cloud provider: AWS
+          - Container repository: AWS ECS
+          - Containerization: Docker/EKS (with clusters in multiple regions and autoscaling nodes using cluster-autoscaler for node scaling as well as HPA based on verious metrics for horizontal deployment scaling)
+          - Database: AWS Elasticache (using global datastore in multiple regions for HA and fast DR)
+          - Performance testing: Gatling
+          - EKS Monitoring and observability: Sysdig Monitoring
+          - Log collection: Vector
+          - Logging solutions: Splunk and Scalyr
+          - Security: Checkmarx (static code), Sysdig Secure (Docker image scanning), Blackduck (OSS)
+          - Secrets management: AWS Secrets Manager, Mozilla SOPS
+          - Content Delivery Network: Fastly
+          - IaC: Terragrunt/Terraform with S3 backends
+          In my current role, part of an Agile team working in a bigger SAFe environment, I have demonstrated the ability to build and maintain continuous delivery pipelines that are triggered by commits to the master branch,
+          and to deploy applications to 4 different environments that are used to improve the quality and reliability of the software before being realeased to production traffic. I have also gained extensive experience in monitoring and maintaining the stability and performance of the environment.
+          I am proficient in GIT, Springboot, AWS, and Docker/EKS, and have strong experience with a range of other tools such as AWS Elasticache, Gatling, Sysdig Monitoring, Vector, Splunk, and Scalyr. I am skilled in using security tools such as Checkmarx, Sysdig Secure, and Blackduck, and have experience with secrets management using AWS Secrets Manager and Mozilla SOPS. I also have knowledge of IaC tools such as Terragrunt and Terraform.
+      - role: Virtualization Engineer
+        time: 08/2017 - 05/2021
+        company: Atos - Timisoara, Romania
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          As a highly experienced VMware and Virtualization Engineer, I have a track record of success in designing,
+          implementing, and maintaining virtualization environments using VMware products in on-premise datacenters and in production environments with SAN attached storage.
+          My expertise includes configuring and managing ESXi hosts, implementing and managing vSphere Replication and vSphere Update Manager, and monitoring and maintaining virtualization environments to ensure high availability and performance.
+          In my previous roles, I have demonstrated the ability to work effectively with cross-functional teams to design and implement infrastructure configurations and migrations.
+      - role: Systems Engineer
+        time: 07/2016 - 08/2017
+        company: TMK-ARTROM - Slatina, Romania
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+          As a seasoned systems engineer with experience in virtualization, backup solutions, and Microsoft technologies, I am well-equipped to tackle a range of technical challenges. My skills include:
+          - Extensive experience with System Center Configuration Manager (SCCM) in a multi-site environment, including deployment, configuration, application packaging, update management, and PXE-based operating system deployment.
+          - Proficiency with VMware and Hyper-V virtualization technologies, as well as backup solutions such as Veeam and Symantec.
+          - Strong understanding of Microsoft Active Directory Domain Service, including the development of organizational units, management of user security with group policies, creation and maintenance of email addresses and distribution lists, and GPO creation and management.
+          - In-depth knowledge of Windows Server 2003, 2008, 2012 R2, and 2016, including the implementation of features and roles and the application of vendor patches to address bug fixes and security vulnerabilities.
+          - Experience with system monitoring tools such as Nagios and SCOM, as well as with helpdesk operations.
+          - Proficiency in networking, including Microsoft DNS, DHCP, and switching.
+      - role: Systems Engineer
+        time: 08/2015 - 07/2016
+        company: PETATEK SRL-D - Craiova, Romania
+        details: |
+           I have experience in working with a range of Azure cloud services, including VMs, WebApps, databases, storage, DNS, and virtual networks,
+           in order to host a variety of projects. I have also worked with various webpage frameworks, such as WordPress. 
+           In addition, I have had the experience starting working with GIT and Jira for central versioning systems.
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Certifications
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    - title: SAFe 5 Practitioner
+      authors: Scaled Agile Framework Certification Training
+      conference: 10/2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    - title:  ITIL Foundations in IT Service Management
+      conference: 02/2018
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    
+    - title: VMware Certified Professional 6 - Data Center Virtualization 
+      conference: 05/2018
+
+    - title: VMware vSphere 6 Foundations
+
+    - title: Converged Systems and Hybrid Cloud
+      authors: Dell EMC
+
+projects:
+    title: Trainings
+    assignments:
+      - title: SAFe for Teams
+
+      - title: Red Hat Enterprise Linux 7 
+        tagline: RH124
+
+      - title: "VMware vSphere: Troubleshooting Workshop [V6.5]"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
+      - name: Terraform
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Git
         level: 98%
 
-      - name: Angular
+      - name: Kubernetes
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Helm
         level: 95%
 
-      - name: Ruby on Rails
+      - name: CI/CD
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Containerization
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
