@@ -36,10 +36,10 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Proficiency
 
         - idiom: Italian
-          level: Professional
+          level: Intermidiate
 
     interests:
       title: Interests
@@ -71,9 +71,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: MA: American Studies
+        university:  West University of Timisoara - Faculty: Letters
+        time: 2021 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
